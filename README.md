@@ -52,3 +52,5 @@ Through this, existence does not merely continue,
 but acquires directional meaning.
 
 Humans are beings whose existence is directed by aspiration.
+
+> Status: Root Layer only
