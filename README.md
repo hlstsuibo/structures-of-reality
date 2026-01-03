@@ -1,4 +1,4 @@
-# Bio：
+# 🌱 Bio：
 Structures of Reality
 
 Making visible the structural conditions under which decentralized life remains possible in reality—not merely in networks.
