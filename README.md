@@ -1,4 +1,5 @@
-# Structures of Reality
+# Bio：
+Structures of Reality
 
 Making visible the structural conditions under which decentralized life remains possible in reality—not merely in networks.
 
@@ -8,7 +9,7 @@ I am only making the structures of reality visible.
 Decentralized existence is a condition of being, not a protocol.
 
 ---
-
+##🌱 Root
 ## First Nature: Learning
 
 A unified whole of capacity, will, and action,
