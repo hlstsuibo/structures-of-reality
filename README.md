@@ -9,7 +9,8 @@ I am only making the structures of reality visible.
 Decentralized existence is a condition of being, not a protocol.
 
 ---
-##🌱 Root
+## 🌱 Root
+
 ## First Nature: Learning
 
 A unified whole of capacity, will, and action,
