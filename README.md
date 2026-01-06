@@ -83,7 +83,8 @@ Humans are beings whose existence takes direction through aspiration.
 
 
 ### 🌱🌱Quanli
-Quanli is the structural feasibility of persistent being-what-it-is—the structure that cannot be eliminated except through total destruction.
+
+### Quanli is the structural feasibility of persistent being-what-it-is—the structure that cannot be eliminated except through total destruction.
 
 In common usage:  
 The power of kings refers to domination, control, or hierarchical structures.  
@@ -125,7 +126,8 @@ once their operation imposes constraint or deprivation upon Tianran Quanli itsel
 
 
 ### 🌱🌱Ping Quan (Ontological Flatness)
-Ping Quan is the state of no-comparison and no-allocation among multiple existents in the structural feasibility of persistent being-what-they-are.
+
+### Ping Quan is the state of no-comparison and no-allocation among multiple existents in the structural feasibility of persistent being-what-they-are.
 
 The power of kings manifests as domination, control, and hierarchical superiority—incapable of Ping Quan and devoid of equality.
 The rights of the people are human-made legal structures of social domination and control—incapable of Ping Quan and never having been equal.
