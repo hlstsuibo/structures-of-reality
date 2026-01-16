@@ -90,11 +90,12 @@ Humans are beings whose existence takes direction through aspiration.
 人是以向往為存在方向的存在。
 
 
-## 🌱🌱The Structure of Reality: Quanli—Information
-🌱🌱現實的結構：權力—信息。
+## 🌱The Structure of Reality: Quanli—Information(現實的結構：權力—信息)
 
-## 
+## 🌱Quanli—Information
+
 🌱Quanli
+
 Quanli is “being such as it is”.
 “Being such as it is” is Quanli.
 Quanli itself is all structures, relations, laws, attributes, and manifestations, requiring no designation.
@@ -103,6 +104,7 @@ Existence is deconstructed in the mode of Quanli and manifested through Quanli; 
 Quanli, unless destroyed, cannot be eliminated.
 
 🌱Information
+
 Information is “being such as it is”.
 “Being such as it is” is information.
 Information itself is all processes, results, events, and facts, requiring no designation.
@@ -111,6 +113,7 @@ Existence is deconstructed in the mode of Quanli and manifested through informat
 Information, unless destroyed, cannot be eliminated.
 
 🌱權力（Quanli）
+
 權力即「是其所是」。 「是其所是」即權力。 
 權力本身就是一切結構、關係、法則、屬性、顯化，無需指稱。 
 權力含存在及一切描述，無關感知、記錄。 
@@ -118,6 +121,7 @@ Information, unless destroyed, cannot be eliminated.
 權力，除非毀滅，不可消除。
 
 🌱信息（information）
+
 信息即「是其所是」。 「是其所是」即信息。
 信息，本身就是一切過程、結果、事件、事實，無需指稱。
 信息含存在及一切描述，無關感知、記錄。
@@ -125,8 +129,8 @@ Information, unless destroyed, cannot be eliminated.
 信息，除非毀滅，不可消除。
 
 
-## 
-🌱One Body, Two Faces:
+## 🌱One Body, Two Faces:
+
 In ordinary perception
 The universe seems like an automatically operating “Quanli encoder”, seemingly continuously pumping out Quanli understood as “laws” into “phenomenal flow” as information.
 In this feeling, information seems to depend on Quanli for its manifestation, while Quanli is expressed in some form.
@@ -137,6 +141,7 @@ Gazing at its structures, relations, laws, attributes, and manifestations, it is
 Gazing at its processes, unfoldings, results, and events, it is information.
 
 🌱一體兩面：
+
 通常感觀上：
 宇宙彷彿一部自動運行的「權力編碼器」，似乎不斷將被理解為「法則」的權力泵出為「現象流動」的信息。
 在這種感受中，信息似乎依賴權力而顯現，權力以某種形式被表達。
@@ -149,17 +154,21 @@ Gazing at its processes, unfoldings, results, and events, it is information.
 ## 🌱Classification of Quanli
 
 🌱Tianran Quanli
+
 Tianran Quanli is the direct “being such as it is”, self-sufficient, in which existence and unfolding are completed through the operation of Quanli itself, without the need for acknowledgment or maintenance.
 
 🌱Jiangou Quanli
+
 Jiangou Quanli is the indirect “being such as it is”, non-self-sufficient, in which the operation of Quanli depends on continuous external intervention and maintenance, and thus requires acknowledgment and maintenance.
 
 🌱權力的分類：
 
 🌱天然權力（Tianran Quanli）
+
 天然權力是直接的「是其所是」，自足，即由權力自身運行完成存在與展開，而無需承認、維持。
 
 🌱建構權力（Jiangou Quanli）
+
 建構權力是間接的「是其所是」，無自足，即權力本身的運行依賴外部的持續介入與維持，因而需要承認與維持。
 
 🌱Tianran and Jiangou
