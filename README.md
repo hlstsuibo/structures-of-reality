@@ -150,6 +150,85 @@ Gazing at its processes, unfoldings, results, and events, it is information.
 凝視其結構、關係、法則、屬性、顯化，是權力；  
 凝視其過程、展開、結果、事件，是信息。
 
+🌱Quanli—Information
+
+Quanli is the structure, law, manifestation, and process of "being such as it is":
+Structure is Quanli:
+Cosmic structures, social structures, chemical structures, physiological structures are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+Law is Quanli:
+Cosmic laws, social laws, chemical laws, physiological laws are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+Manifestation is Quanli:
+Cosmic manifestations, social manifestations, chemical manifestations, physiological manifestations are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+Process is Quanli:
+Cosmic processes, social processes, chemical processes, physiological processes are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+
+Unless destroyed, cannot be eliminated.
+
+Information is the state, fact, event, and process of "being such as it is":
+State is Information:
+Cosmic states, social states, chemical states, physiological states are all Information, they are cosmic, social, chemical, physiological information;
+Fact is Information:
+Cosmic realities, social realities, chemical realities, physiological realities are all Information, they are cosmic, social, chemical, physiological information;
+Event is Information:
+Cosmic events, social events, chemical events, physiological events are all Information, they are cosmic, social, chemical, physiological information;
+Process is Information:
+Cosmic processes, social processes, chemical processes, physiological processes are all Information, they are cosmic, social, chemical, physiological information;
+
+Unless destroyed, cannot be eliminated.
+
+🌱權力-信息（Quanli—Information）
+
+權力即「是其所是」的結構、法則、顯化、過程：
+結構是權力：
+宇宙結構、社會結構、化學結構、生理結構都是權力，是宇宙的、社會的、化學的、生理的權力；
+法則是權力：
+宇宙法則、社會法則、化學法則、生理法則都是權力，是宇宙的、社會的、化學的、生理的權力；
+顯化是權力：
+宇宙顯化、社會顯化、化學顯化、生理顯化都是權力，是宇宙的、社會的、化學的、生理的權力；
+過程是權力：
+宇宙過程、社會過程、化學過程、生理過程都是權力，是宇宙的、社會的、化學的、生理的權力；
+
+除非毀滅，不可消除。
+
+信息即「是其所是」的狀態、事實、事件、過程：
+狀態是信息：
+宇宙狀態、社會狀態、化學狀態、生理狀態都是信息，是宇宙的、社會的、化學的、生理的信息；
+事實是信息：
+宇宙現實、社會現實、化學現實、生理現實都是信息，是宇宙的、社會的、化學的、生理的信息；
+事件是信息：
+宇宙事件、社會事件、化學事件、生理事件都是信息，是宇宙的、社會的、化學的、生理的信息；
+過程是信息：
+宇宙過程、社會過程、化學過程、生理過程都是信息，是宇宙的、社會的、化學的、生理的信息；
+
+除非毀滅，不可消除。
+
+
+🌱Quanli—Information Is Not Two Juxtaposed Entities
+
+Quanli—Information is not two juxtaposed entities. The current distinction is made solely for the purpose of exposition and does not imply that they can be actually separated. In their operation and manifestation, they are absolutely inseparable.
+Any perceived state is itself exercising Quanli;
+Any Quanli being exercised is itself generating Information;
+The direction of water flow does not produce influence "after" as information;
+The result of a chemical reaction is not a description "outside" the reaction;
+The result itself is exercising constraint, exclusion, and boundary definition of possibilities.
+State itself is a form of constraint; fact itself is a form of exclusion; event itself is a rearrangement of possibilities. Therefore, they are not merely "recorded things," but also the existing forms that are actively functioning.
+There is no aspect that is "pure operation without manifestation," nor any aspect that is "pure manifestation without exertion of force."
+The notion that "Information is passive while Quanli is active" is an illusion.
+
+🌱權力-信息不是兩種並列
+
+權力—信息不是兩種並列，現將其區分僅為論述需要，並不意味其可被實際分離，其運行與呈現上是絕不可分割的。
+任何被感知的狀態，本身就在行使權力；
+任何正在行使的權力，本身就在生成信息； 
+水流的方向不是信息「之後」才產生影響；
+化學反應的結果不是反應「之外」的描述；
+結果本身就在行使約束、排他與可能性界定。
+狀態本身就是一種約束，事實本身就是一種排他，事件本身就是一種重排可能性，所以它們不僅是「被記錄的東西」，也是正在發生作用的存在形態。
+沒有“純粹運行而不顯現”的面向，也沒有“純粹顯現而不施力”的面向。
+「信息是被動的，權力是主動的」這個是錯覺。
+
+
+
 
 ## 🌱Classification of Quanli
 
