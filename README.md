@@ -537,4 +537,6 @@ In the same "step" interval, more spacetime is encompassed, so in my observation
 ①its one step encompasses my ten spatial intervals, so it appears enlarged (I would think my own spatial scale contracts relative to it);
 ②its one step encompasses my ten temporal intervals, so its lifespan appears prolonged.
 
+（也可換角度：我的時空與該事件彼此高速相對。）(Alternative angle: my spacetime and the event are in high-speed relative motion to each other.)
+
 > Status: Root Layer only
