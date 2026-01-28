@@ -34,12 +34,19 @@
 權力即「是其所是」的結構、法則、顯化、過程：
 
 結構是權力：
+
 宇宙結構、社會結構、化學結構、生理結構都是權力，是宇宙的、社會的、化學的、生理的權力；
+
 法則是權力：
+
 宇宙法則、社會法則、化學法則、生理法則都是權力，是宇宙的、社會的、化學的、生理的權力；
+
 顯化是權力：
+
 宇宙顯化、社會顯化、化學顯化、生理顯化都是權力，是宇宙的、社會的、化學的、生理的權力；
+
 過程是權力：
+
 宇宙過程、社會過程、化學過程、生理過程都是權力，是宇宙的、社會的、化學的、生理的權力；
 
 除非毀滅，不可消除。
@@ -48,10 +55,13 @@
 
 狀態是信息：
 宇宙狀態、社會狀態、化學狀態、生理狀態都是信息，是宇宙的、社會的、化學的、生理的信息；
+
 事實是信息：
 宇宙現實、社會現實、化學現實、生理現實都是信息，是宇宙的、社會的、化學的、生理的信息；
+
 事件是信息：
 宇宙事件、社會事件、化學事件、生理事件都是信息，是宇宙的、社會的、化學的、生理的信息；
+
 過程是信息：
 宇宙過程、社會過程、化學過程、生理過程都是信息，是宇宙的、社會的、化學的、生理的信息；
 
@@ -101,6 +111,7 @@ Note:
 # 🌱The Structure of Reality: Quanli—Information
 
 🌱Quanli
+
 Quanli is “being such as it is”.
 “Being such as it is” is Quanli.
 Quanli itself is all structures, relations, laws, attributes, and manifestations, requiring no designation.
@@ -109,6 +120,7 @@ Existence is deconstructed in the mode of Quanli and manifested through Quanli; 
 Quanli, unless destroyed, cannot be eliminated.
 
 🌱Information
+
 Information is “being such as it is”.
 “Being such as it is” is information.
 Information itself is all processes, results, events, and facts, requiring no designation.
@@ -117,6 +129,7 @@ Existence is deconstructed in the mode of Quanli and manifested through informat
 Information, unless destroyed, cannot be eliminated.
 
 🌱One Body, Two Faces:
+
 In ordinary perception
 The universe seems like an automatically operating “Quanli encoder”, seemingly continuously pumping out Quanli understood as “laws” into “phenomenal flow” as information.
 In this feeling, information seems to depend on Quanli for its manifestation, while Quanli is expressed in some form.
@@ -127,31 +140,41 @@ Gazing at its structures, relations, laws, attributes, and manifestations, it is
 Gazing at its processes, unfoldings, results, and events, it is information.
 
 🌱Quanli—Information
+
 Quanli is the structure, law, manifestation, and process of "being such as it is":
+
 Structure is Quanli:
 Cosmic structures, social structures, chemical structures, physiological structures are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+
 Law is Quanli:
 Cosmic laws, social laws, chemical laws, physiological laws are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+
 Manifestation is Quanli:
 Cosmic manifestations, social manifestations, chemical manifestations, physiological manifestations are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
+
 Process is Quanli:
 Cosmic processes, social processes, chemical processes, physiological processes are all Quanli, they are Quanli of the cosmic, social, chemical, and physiological domains;
 
 Unless destroyed, cannot be eliminated.
 
 Information is the state, fact, event, and process of "being such as it is":
+
 State is Information:
 Cosmic states, social states, chemical states, physiological states are all Information, they are cosmic, social, chemical, physiological information;
+
 Fact is Information:
 Cosmic realities, social realities, chemical realities, physiological realities are all Information, they are cosmic, social, chemical, physiological information;
+
 Event is Information:
 Cosmic events, social events, chemical events, physiological events are all Information, they are cosmic, social, chemical, physiological information;
+
 Process is Information:
 Cosmic processes, social processes, chemical processes, physiological processes are all Information, they are cosmic, social, chemical, physiological information;
 
 Unless destroyed, cannot be eliminated.
 
 🌱Quanli—Information Is Not Two Juxtaposed Entities
+
 Quanli—Information is not two juxtaposed entities. The current distinction is made solely for the purpose of exposition and does not imply that they can be actually separated. In their operation and manifestation, they are absolutely inseparable.
 Any perceived state is itself exercising Quanli;
 Any Quanli being exercised is itself generating Information;
@@ -167,9 +190,11 @@ The notion that "Information is passive while Quanli is active" is an illusion.
 🌱Classification of Quanli
 
 🌱Tianran Quanli
+
 Tianran Quanli is the direct “being such as it is”, self-sufficient, in which existence and unfolding are completed through the operation of Quanli itself, without the need for acknowledgment or maintenance.
 
 🌱Jiangou Quanli
+
 Jiangou Quanli is the indirect “being such as it is”, non-self-sufficient, in which the operation of Quanli depends on continuous external intervention and maintenance, and thus requires acknowledgment and maintenance.
 
 🌱Tianran and Jiangou
