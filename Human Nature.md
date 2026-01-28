@@ -1,6 +1,7 @@
 # 🌱現實的結構：人性篇
 
 🌱第一自然性：學
+
 一種由基因提供初始結構、
 以主動吸收差異並調整自身行為
 作為存在方式的能力、意志與行為的統一體。
@@ -8,6 +9,7 @@
 人是以「學」為存在方式的存在。
 
 🌱第二自然性：自我
+
 一種在持續「學」的過程中生成的結構，
 用以界定自身與外界的邊界，
 並以維持自身連續存在為核心取向。
@@ -19,6 +21,7 @@
 人是以自我為存在邊界的存在。
 
 🌱第三自然性：向往
+
 一種在「學」所吸收的信息
 與「自我」所形成的存在邊界之上
 生成的方向性結構。
@@ -35,6 +38,7 @@
 # 🌱The Structures of Reality: Human Nature
 
 🌱First Nature: Learning
+
 A unified whole of capacity, will, and action,
 initially structured by genetics,
 and taking the active absorption of differences
@@ -44,6 +48,7 @@ as its mode of existence.
 Humans are beings whose way of being is learning.
 
 🌱Second Nature: Self
+
 A structure generated in the continuous process of learning,
 serving to delineate the boundary between self and world,
 with the maintenance of its own continuity of existence as its core orientation. 
@@ -56,6 +61,7 @@ and to endure as an acting subject.
 Humans are beings whose existence is bounded by the self.
 
 🌱Third Nature: Aspiration
+
 A directional structure generated upon
 the information absorbed through learning
 and the existence-boundary formed by the self. 
