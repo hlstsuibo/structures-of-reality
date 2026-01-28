@@ -2,6 +2,7 @@
 —— 從「過程」理解時間的本質
 
 雙生子佯謬
+
 經典的例子是這樣的：
 哥哥搭乘接近光速的太空船旅行，回到地球時發現——
 自己只過了 1 年，而留在地球的弟弟，卻已經老了 50 歲。
@@ -11,18 +12,21 @@
 哥哥這 1 年的「耐用度」極高。
 
 1. 一個常見的直覺假設：時間尺度
+
 在日常生活中，我們習慣以「時間尺度」理解世界，並默認一個前提：
 每個人的生命演化進度都是恆定的，即「每過一秒鐘就老一秒」。
 這個假設非常直覺，就像認為「走過的路程」會隨「時間流逝」自然增加。
 但這其實只是一種方便的假設，事實上，生命演化的進度並不恆定。
 
 2. 切換視角：放棄時間尺度
+
 在傳統視角中我們知道：
 一段必然要完成的路程，通過時所用時間的長短，會隨運動速度而改變一一運動速度越快，所用時間越短；運動速度越慢，所用時間越長。
 如果把生命演化過程視為「一段必然要完成的路程」，​並用生命演化進度來替換「時間」進行類比，那麼可以得到另一種描述：
 生命演化進度的快慢會隨運動速度而改變一一即運動速度越快，生命演化進度越慢；運動速度越慢，生命演化進度越快。
 
 ​3. 雙生子佯謬的再認識
+
 ​哥哥的運動速度極快，他的生命演化進度極慢。
 在整個旅程中，他只走完了生命總路程中的 1 年分。
 ​弟弟的運動速度緩慢，他的生命演化進度相對很快。
@@ -36,6 +40,7 @@
 ​這就是為什麼哥哥只經歷了 1 年，卻能抵達弟弟的 50 年之後。
 ​
 4. 總結：間隔與順序
+
 過程這一信息本身：以不可跳過、不可顛倒的順序發生。
 時間，同樣是過程中所呈現出的「間隔表現」和「順序表現」。
 而「時刻」只是人類為了標記這些順序而建立的名稱。
@@ -55,6 +60,7 @@
 ​— Understanding the Essence of Time through "Process"
 
 The Twin Paradox
+
 The classic example is as follows:
 An older brother travels aboard a spacecraft at near-light speed.
 Upon returning to Earth, he discovers that
@@ -66,12 +72,14 @@ Reframed differently, the logic becomes much clearer:
 the “durability” of the older brother’s one year is extremely high.
 
 1. A Common Intuitive Assumption: The Time Scale
+
 In everyday life, we are accustomed to understanding the world through a time scale and implicitly assume the following premise:
 The progress of each person’s life evolution is constant—that is, one second of aging per second.
 This assumption feels intuitively natural, much like the belief that the distance traveled increases automatically with the passage of time.
 However, this is merely a convenient assumption. In reality, the progress of life evolution is not constant.
 
 2. Shifting Perspective: Abandoning the Time Scale
+
 From the conventional perspective, we know that:
 For a fixed distance that must inevitably be traversed, the time required varies with velocity—
 higher velocity leads to shorter time, while lower velocity leads to longer time.
@@ -81,6 +89,7 @@ higher velocity corresponds to slower evolutionary progress,
 while lower velocity corresponds to faster evolutionary progress.
 
 3. Reinterpreting the Twin Paradox
+
 Because the older brother moves at extremely high velocity, his life evolutionary progress is extremely slow.
 Throughout the journey, he completes only one year’s worth of his total life path.
 The younger brother, moving at low velocity, experiences relatively rapid life evolutionary progress.
@@ -93,6 +102,7 @@ What is commonly described as time slowing down is, in fact, merely the differen
 This is why the older brother, having experienced only one year, arrives at a point fifty years later in his brother’s timeline.
 
 4. Summary: Interval and Sequence
+
 The process itself, as information, unfolds in an order that cannot be skipped or reversed.
 Time is simply the intervalal and sequential manifestation of this process.
 “Moments” are merely names humans assign to label these sequences.
@@ -113,6 +123,7 @@ if physical reality is discrete, a minimum interval must necessarily exist.
 從過程密度到事件配額​
 
 1.宇宙的計算機類比
+
 如果將宇宙視為一台超級計算機：
 過程：指這台計算機為完成事件所必須執行的指令步數或代碼行數。
 
@@ -120,6 +131,7 @@ if physical reality is discrete, a minimum interval must necessarily exist.
 在這一框架下，時間只是觀測者對「過程執行間隔長短」所形成的感知與標記。
 
 ​​2. 衰變實驗
+
 ​以放射性原子核的衰變為例：
 ​​在實驗室靜止時： 它正常地演化完成其衰變，花費1 微秒。
 在高速飛行時​：仍然演化完成其衰變，但因高速移動，自身演化進度的步調變慢，現實觀測花費了 10 微秒。
@@ -127,6 +139,7 @@ if physical reality is discrete, a minimum interval must necessarily exist.
 過程密度剛好可以精準描述前述現象：即在某一事件段的演化過程中，完成了的演化步驟量與過程間隔量的商（單位間隔中執行的步驟數）。​
 
 3. 四維時空：配額
+
 事件過程以配額控制，配額以確定量存在，確定量有最小單位，且這個最小單位是守恆的。  
 公式構想：單位配額 = 過程密度 × 運動速度  
 在這一框架下的四維時空中：  
@@ -136,6 +149,7 @@ if physical reality is discrete, a minimum interval must necessarily exist.
 實際過程什麼都沒少。
 
 4. 量子層級的硬指標
+
 ​在量子態的變換中：
 ​事件總量： 從狀態 A 到 B 的量子躍遷次數是確定的。從場的角度看，狀態 A 到 B 的演化是一段確定的「相點路徑」，其總配額即這段路徑上場的總震盪次數。
 ​不可縮減性： 場的激發必須「一步一腳印」地走完它的量子間隔。這些「腳印的總數」是實實在在的硬指標，不可跳過，亦不可縮減。​
@@ -153,12 +167,14 @@ if physical reality is discrete, a minimum interval must necessarily exist.
 — From Process Density to Event Quota
 
 1. The Universal Computer Analogy
+
 If we regard the universe as a supercomputer:
 Process: Refers to the number of instruction steps or lines of code that the computer must execute to complete an event.  
 When the system is in a state of high-speed motion, the executed instruction code itself does not decrease, but the execution steps will span more space — the interval between each instruction therefore increases, which means the evolutionary pace slows down.  
 Within this framework, time is merely the observer's perception and labeling of the "length of intervals between process executions."
 
 2. Decay Experiment
+
 Take the decay of a radioactive nucleus as an example:
 At rest in the laboratory: It normally completes its decay evolution, taking 1 microsecond.
 In high-speed flight: It still completes the same decay evolution, but due to the high-speed motion, the pace of its own evolutionary progress slows down, and the actual observation takes 10 microseconds.
@@ -166,6 +182,7 @@ This slowing of the pace means that the interval between each step has increased
 Process density precisely describes the aforementioned phenomenon: namely, in the evolution process of a certain event segment, the quotient of the completed evolutionary step quantity divided by the process interval quantity (i.e., the number of steps executed per unit interval).
 
 3. Four-Dimensional Spacetime: Quota
+
 Event processes are controlled by quota, with quota existing as a fixed quantity, the fixed quantity having a minimum unit, and this minimum unit being conserved.
 Conceptual formula: Unit Quota = Process Density × Velocity
 In the four-dimensional spacetime of this framework:
@@ -175,11 +192,13 @@ When velocity is high, the quota is mostly allocated to "spatial displacement," 
 In reality, nothing is lost from the actual process.
 
 4. The Hard Index at the Quantum Level
+
 In the transformation of quantum states:
 Event total: The number of quantum jumps from state A to state B is fixed. From the perspective of the field, the evolution from state A to state B is a definite "phase-point path," and its total quota is the total number of oscillations of the field along this path.  
 Irreducibility: The excitation of the field must proceed "step by step" to complete its quantum intervals. The total number of these "footprints" is a solid, real hard index — it cannot be skipped or reduced.
 
 Conclusion:
+
 The sequential occurrence of events as process is absolute.The field itself is the unified manifestation of Quanli—Information, and its excitation process is absolutely irreducible.  
 This is not imposed by any external rule, but arises necessarily from "Quanli—Information" as co-fundamental realities.
 Causality is therefore not a constraint applied to processes, but the inevitable structure that emerges from "Quanli—Information" themselves.
@@ -190,6 +209,7 @@ Causality is therefore not a constraint applied to processes, but the inevitable
 # 🌱現實的結構：權力-信息之時空
 
 1. 時空一體兩面
+
 時間，顯化為間隔的線性順序跨度；
 空間，顯化為間隔的橫向區間跨度；
 時間表達空間演化的順序，空間承載時間演化的區間。 
@@ -203,6 +223,7 @@ Causality is therefore not a constraint applied to processes, but the inevitable
 時間與空間不僅是背景過程，還是法則結構，即表達信息也展示權力。  
 
 2. 時空配額守恆
+
 配額守恆中：單位配額 = 過程密度 × 運動速度；
 時空也不例外，時空配額守恆意味著現實的穩定性。
 
@@ -210,6 +231,7 @@ Causality is therefore not a constraint applied to processes, but the inevitable
 過程密度的變化，既是權力結構的調配，也是信息展開方式的改變。  
 
 3. 現實解構
+
 基於演化步驟的絕對性，以不可跳過不可增加的絕對順序運行，所謂的時空膨脹、收縮可以被直觀理解。  
 
 自身視角（運動者）
@@ -230,6 +252,7 @@ Causality is therefore not a constraint applied to processes, but the inevitable
 # 🌱The Structure of Reality: Quanli—Information in Spacetime
 
 1. Spacetime as One Body, Two Faces
+
  Time manifests as the linear, sequential span of intervals;
 space manifests as the lateral span of intervals;
 time expresses the order of spatial evolution, while space carries the span within which temporal evolution unfolds.
@@ -244,6 +267,7 @@ Time and space are not merely background processes, but are themselves structura
 
 
 2. Spacetime Quota Conservation
+
 Quota conservation: unit quota = process density × velocity;
 spacetime is no exception—spacetime quota conservation signifies the stability of reality.
 
@@ -297,6 +321,7 @@ In the same "step" interval, more spacetime is encompassed, so in my observation
 物質在時空中必以區間間隔為存在，必以順序間隔為過程，持續與演化。
 
 4.演化
+
 公域中，物質演化為運動，表現為私域佔有權在時空基場上的連續轉移。
 或者表現為其特徵頻率在時空背景波譜中的相位推移，速度即是波的相速度。在真空（公域基底）中，所有波動共享一個固定的比例關係（光速）即「額」，是受限於頻率與波長的乘積恆定的。
 絕對運動與相對運動：
@@ -310,6 +335,7 @@ In the same "step" interval, more spacetime is encompassed, so in my observation
 事物交互、演化以配額控制，事物在演化運動的過程中，其配額守恆。
 
 5.「外部運動」與「內部自持」共享同一個「額度」
+
 過程密度：事物演化過程也就是空間移動與內部自持步驟的實施中，完成了的演化步驟量與公域順序間隔量的商（單位順序間隔中執行的步驟數）。
 在這一框架下，因私域配額守恆：
 低速運動時，配額大部分分配給「內部自持」，高速向未來演化，過程密度增加。  
@@ -340,6 +366,7 @@ In the same "step" interval, more spacetime is encompassed, so in my observation
 黑洞是私域結構化約束的向內崩塌，其周圍公域的真空化。
 
 8.例外
+
 意識不在現實結構之內，不屬於現實的結構，是現實結構的組織、創作源，是信息的反饋。
 意識無法用現實的結構定義、解釋，在現實的結構下不可知。
 當前意識無法反饋連續狀態下的最小解析度，配額守恆並不必須要精确橫向區間（位置）與順序區間（動量/時間），其本身一體兩面並不可分。
@@ -363,6 +390,7 @@ Information is all the "irreducible and unskippable evolutionary steps" containe
 Quanli—Information is one body with two faces.
 
 2. Spacetime (Public Domain)
+
 Spacetime is the entirety of interval spans and sequential intervals, or the full-spectrum fluctuating energy base field, where wavelength and frequency correspond to physical extension and sequential pulsing, such as the bosonic field, which is spacetime itself.
 Time and space are one body with two faces that lock spatial extension and sequential order together.
 Spacetime provides the "quota" to cosmic matter → allocation.
@@ -370,6 +398,7 @@ Interval span (wavelength): the extensibility of spacetime. The physical length 
 Sequential interval (period): the rhythm of spacetime. The sequential span required for the complete implementation and manifestation of evolutionary steps in "Quanli—Information."
 
 3. Matter (Private Domain)
+
 Matter occupies spacetime quota through "state exclusivity" structures, such as the occupation of bosonic fields by fermionic fields.
 That is, private domain is a structural partial detachment from public domain.
 For private domain, public domain manifests geometric features.
@@ -377,6 +406,7 @@ For private domain, public domain provides infinite quota.
 Matter must exist in spacetime with interval spans as existence and sequential intervals as process, continuing and evolving.
 
 4. Evolution
+
 In public domain, matter evolves into motion, manifested as the continuous transfer of private domain occupancy rights on the spacetime base field.
 Alternatively, manifested as the phase shift of its characteristic frequency in the spacetime background spectrum, where velocity is the phase velocity of the wave. In vacuum (public domain substrate), all fluctuations share a fixed proportional relation (speed of light) as "quota," constrained by the constant product of frequency and wavelength.
 Absolute Motion and Relative Motion:
@@ -388,8 +418,45 @@ Atomic level: manifested as energy level transitions in electron clouds or perio
 Cellular level: manifested as metabolism or signal transduction. This is the dynamic process by which private domain continuously consumes and transforms public domain quota to maintain its "exclusive status."
 Interactions and evolution of things are controlled by quota, and during the evolutionary motion of things, their quota is conserved.
 
+
 5. "External Motion" and "Internal Self-Sustenance" Share the Same "Quota"
+
 Process density: in the evolution process of things, i.e., the implementation of spatial movement and internal self-sustaining steps, the quotient of completed evolutionary step quantity divided by public domain sequential interval quantity (the number of steps executed per unit sequential interval).
 In this framework, due to private domain quota conservation:
 At low velocity, quota is mostly allocated to "internal self-sustenance," evolving rapidly toward the future, resulting in increased process density.
-At high velocity, quota is mostly allocated to "spatial displacement," leaving less quota for "internal self-sustenance" evolution, resulting in decreased process density
+At high velocity, quota is mostly allocated to "spatial displacement," leaving less quota for "internal self-sustenance" evolution, resulting in decreased process density. 
+Superluminal disconnection: when the "span draw" caused by absolute velocity exceeds the public domain reference quota, the "information exchange (electromagnetic force)" protocol between private domains fails due to inability to settle, relative velocity can exceed light speed, and beyond the horizon between private domains, it still remains within the causality settlement of public domain.
+
+6. Matter Density and Matter Quantity
+
+Matter density: the quota matched by matter in unit interval spans under public domain background.
+Matter quantity (occupied quota): matter density × spatial interval occupancy quantity, which is both mass and energy, mass and energy are one body with two faces.
+Matter quantity follows quota conservation.
+When matter moves at high speed, it occupies more public domain quota; occupation is not possession, matter quantity is expressed instantaneously with velocity.
+The interaction between matter quantity and public domain is the intrinsic Quanli of quota itself.
+Inertia: inertia is the "path dependence" manifested by private domain toward public domain background in order to maintain the current "quota occupation state."
+The irreducible and unskippable sequentiality is the most fundamental causality in the universe; evolution under public domain background must be within the horizon and must have causal relations.
+When absolute motion exceeds quota—light speed, it will be unable to self-sustain internally, and may perhaps reach beyond the horizon.
+
+7. Force
+
+Force: quota exchange, competition, manifestation between private domain and public domain, private domain and private domain, as well as private domain exercising constraint, exclusion, and possibility definition.
+Electromagnetic force: quota exchange between private domains, for example, "remote information exchange" through bosons (photons), determining mutual distance and repulsion.
+Strong and weak forces: structural constraints and exclusion occurring within private domains to define quota territories.
+Gravity: the original integrated affinity between structurally constrained quota and external quota (public domain and other private domains), its magnitude determined by matter quantity and distance.
+Because public domain is omnipresent, the gravitational force between private domain and public domain balances to zero in all directions; only interactions between private domains are observable. However, private domain causes density changes in surrounding fields, and at the same time, private domain quota has a tendency to return to public domain, that is, entropy increase.
+Entropy increase: the quota draw of private domain is conditional behavior (such as frequency resonance); after conditions change, the return of quota not acknowledged by public domain is the inevitable cost.
+Force: quota behavior patterns and scope of action
+Electromagnetic force: remote information negotiation, cross-private domain social interaction and construction
+Strong force: mandatory quota locking, stability of private domain core
+Weak force: quota structure adjustment, transformation of private domain identity
+Gravity: linkage induction of spatial quota, overall coherence of the universe
+Entropy increase: quota cancellation and recycling, system return and settlement
+Black hole is the inward collapse of private domain structural constraints, with vacuumization of surrounding public domain.
+
+8. Exception
+
+Consciousness is not within the structure of reality, does not belong to the structure of reality; it is the organizer and creative source of the structure of reality, and is the feedback of information.
+Consciousness cannot be defined or explained by the structure of reality; it is unknowable under the structure of reality.
+Current consciousness cannot feedback the minimum resolution under continuous states; quota conservation does not necessarily require precise lateral intervals (position) and sequential intervals (momentum/time), as they are inseparable one body with two faces.
+The programmatic operation emerging from real matter does not belong to the category of consciousness; it is the inevitability of structural exclusion and ordering in private domain. The standpoint of private domain existence is precisely the structuring and ordering of public domain.
