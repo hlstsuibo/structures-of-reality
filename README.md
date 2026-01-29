@@ -17,5 +17,15 @@ I am only making the structures of reality visible.
 
 Decentralized existence is a condition of being, not a protocol.
 
+---
+
+##  
+註：
+權力（Quanli）是一個系統特有術語，它不對應於 power、right、authority、capacity 或任何道德、法律、以人為中心的概念，而是包含它們的整體——統一於一個結構性事實之中。它類似於「道」的概念，屬於存在的根本運作原則，代表載體內在的自我維護與邊界設定的結構性規則，獨立於任何敘事或倫理框架。
+
+Note：
+Quanli (權力) is a term specific to this system. It does not correspond to power, right, authority, capacity, or any moral, legal, or anthropocentric concept, but encompasses them as a unified whole—an integral structural fact. It resembles the concept of "Dao" (道), belonging to the fundamental principle of existence's operation, representing the carrier's intrinsic structural rules of self-maintenance and boundary-setting, independent of any narrative or ethical framework.
+
+
 
 > Status: Root Layer only
