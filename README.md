@@ -6,8 +6,7 @@
 
 去中心化的存在是一種存在狀態，而非一套協議。
 
-在寫作過程中，為了方便讀者閱讀，盡可能多的放棄了係統內术語的使用，有興趣者可自行決定處理。
-
+在寫作過程中，為了方便讀者閱讀，盡可能多的放棄了係統內术語的使用；虽然每一部分都可以獨立閱讀，但要想更好的獲得理解，最好是要從頭按順序閱讀基礎部分。
 
 ---
 
@@ -20,7 +19,7 @@ I am only making the structures of reality visible.
 
 Decentralized existence is a condition of being, not a protocol.
 
-During the writing process, for the convenience of readers, I have abandoned the use of as many system-specific terms as possible. Those who are interested may decide how to handle them on their own.
+During the writing process, in order to make it easier for readers, I have deliberately abandoned the use of as many system-specific terms as possible.Although each section can be read independently, to achieve a better and deeper understanding, it is recommended to read the foundational parts sequentially from the beginning.
 
 ---
 
