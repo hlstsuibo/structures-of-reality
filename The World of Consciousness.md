@@ -192,3 +192,27 @@ Consciousness possesses asymmetric intervention over the world of reality.
 Consciousness pays no physical quota of the universe, yet it can rearrange reality through "cutting" (defining physical intervals) and "meaning assignment" (defining logical weights). This characteristic of "rearranging reality without paying the physical quota" becomes the true driving force or source of destruction for all change and order in reality.
 
 Beyond the grand "cutting" and "Quanli expansion," the pain, hunger, warmth, and joy truly felt by this carrier of ours are the most real and bare settlement in this "manifestation through borrowed shell."
+
+---
+
+# 🌱載體的指稱
+
+1. 物理結構層
+物理結構（如神經系統、內分泌系統、感受性結構）可以產生自發行為，但這些行為不必然構成意識行為。它們屬於結構對刺激的反應與內部調節，而非敘事、選擇或價值指向。
+2. 生存自持單元層
+生存自持單元（能耗、痛苦、愉悅、崩潰等）同樣可以是自發行為，但不必然是意識行為。無數動植物具備完整的自發調節、生存維持與損傷反應機制，卻不存在意識層面的敘事、反思與指涉。
+3. 天然權力承載層
+作為天然權力的承載者，載體具備拒絕、接受、疲憊與終止的能力。這些能力可以自發發生，但不構成意志表達，只能以生理與結構結果被動顯化，而非以語言、信念或選擇的形式主動宣告。
+
+
+# 🌱The Designation of Carrier
+
+1.Physical Structure Layer
+Physical structures (such as the nervous system, endocrine system, and sensory structures) can generate spontaneous behavior, but such behavior does not necessarily constitute conscious behavior. These are structural responses to stimuli and internal regulations, rather than narrative, choice, or value orientation.
+
+2.Survival Self-Sustenance Unit Layer
+Survival self-sustenance units (energy consumption, pain, pleasure, collapse, etc.) can likewise produce spontaneous behavior, but this does not necessarily constitute conscious behavior. Countless plants and animals possess complete mechanisms for spontaneous regulation, survival maintenance, and damage response, yet they lack any conscious-level narrative, reflection, or self-reference.
+
+3.Tianran Quanli Bearing Layer
+As bearers of Tianran Quanli, carriers possess the capacities of refusal, acceptance, fatigue, and termination. These capacities can occur spontaneously, but they do not constitute expressions of will; they can only manifest passively as physiological and structural outcomes, rather than actively declaring themselves in the form of language, belief, or choice.
+
