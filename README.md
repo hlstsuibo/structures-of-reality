@@ -6,6 +6,9 @@
 
 去中心化的存在是一種存在狀態，而非一套協議。
 
+在寫作過程中，為了方便讀者閱讀，盡可能多的放棄了係統內术語的使用，有興趣者可自行決定處理。
+
+
 ---
 
 # 🌱Structures of Reality
@@ -17,6 +20,8 @@ I am only making the structures of reality visible.
 
 Decentralized existence is a condition of being, not a protocol.
 
+During the writing process, for the convenience of readers, I have abandoned the use of as many system-specific terms as possible. Those who are interested may decide how to handle them on their own.
+
 ---
 
 ##  
@@ -25,7 +30,6 @@ Decentralized existence is a condition of being, not a protocol.
 
 Note：
 Quanli (權力) is a term specific to this system. It does not correspond to power, right, authority, capacity, or any moral, legal, or anthropocentric concept, but encompasses them as a unified whole—an integral structural fact. It resembles the concept of "Dao" (道), belonging to the fundamental principle of existence's operation, representing the carrier's intrinsic structural rules of self-maintenance and boundary-setting, independent of any narrative or ethical framework.
-
 
 
 > Status: Root Layer only
