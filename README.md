@@ -1,4 +1,4 @@
-# https://github.com/hlstsuibo/structures-of-reality/tree/main
+
 
 
 ---
