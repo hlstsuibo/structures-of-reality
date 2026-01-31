@@ -227,46 +227,42 @@ As bearers of Tianran Quanli, carriers possess the capacities of refusal, accept
 ## 🌱意識（2）
 
 現實世界以權力-信息為結構，權力必以信息表達，信息必以權力顯化，現實是具象化的；
-做為外來介入者的意識，在現實中卻是非具象化的，其介入必須要具備將現實具象轉化為可被其表達、傳遞的信息形式，因此，其具有以下能力：
-1.將現實具象具像化顯化的能力→即把具象轉化為信息表達的能力
-2.將現實具象抽象化顯化的能力→即把具象的具像信息歸納規律化表達的能力
+做為外來介入者的意識，在現實中卻是非具象化的，而無具象顯化即無存在、無意義，這是現實世界的結構事實。
 
-透過將具象的具像信息歸納為規律化、可遷移的表達，意識 不僅能顯化，還能擴張：跨個體、跨事件、跨時間、跨載體，使其具有「系統」的能力。
+現實是，意識具備將具象轉化為可表達、可傳遞的信息的能力：
+1.將現實具象具像化顯化的能力→即把具象轉化為信息表達的能力；
+2.將現實具象抽象化顯化的能力→即把具象的具像信息歸納規律化表達的能力。
 
+因此，意識不僅能顯化，還能擴張：跨個體、跨事件、跨時間、跨載體，其具有「系統」的能力。
 意識不以現實世界中的配額結算，也就意味着：
 1.將現實具象具像化 → 不需要支付載體代價；
 2.將現實具象抽象化 → 不需要承擔結算責任。
-換句話說，意識的能力本身就是系統外能力，也才有可能成為系統的能力。
+換句話說，意識的能力本身就是現實系統結構外的能力，因此才有可能成為系統的能力。
+
+意識是一個能將現實轉譯為信息，卻不對信息後果負責的結構性介入者，這種講信息故事即敘事介入方式，成為意識顯化的唯一方式。
+
 科學、法律、神學，本質上都是這種「抽象化顯化」的巔峰產物。
 
-意識：無限擴張、無需即時結算；
-載體：有限、必須承擔全部結算；
 
-意識是一個能將現實轉譯為信息，卻不對信息後果負責的結構性介入者。
-這種介入方式，唯有敘事，即講信息的故事。
 
-## 🌱Consciousness (2)
+## 🌱 Consciousness (2)
 
 The real world is structured by Quanli-Information: Quanli must express itself through information, and information must manifest through Quanli; reality is concrete manifestation.
-Consciousness, as an external intervener, remains non-concrete within reality. Its intervention requires the ability to convert concrete reality into forms of information that can be expressed and transmitted by it. Therefore, it possesses the following capacities:
+As an external intervener, consciousness remains non-concrete within reality, and without concrete manifestation it has no existence and no meaning—this is a structural fact of the real world.
 
-1. The capacity to concretize and manifest reality as information — that is, to transform the concrete into expressible information.  
+Reality is such that consciousness possesses the capacity to transform the concrete into expressible and transmissible information:  
 
-2. The capacity to abstractize and manifest reality — that is, to generalize concrete, manifested information into regularized, transferable expressions.
+1. The capacity to concretize and manifest reality as information — that is, to transform the concrete into expressible information;  
+2. The capacity to abstractize and manifest reality — that is, to generalize concrete manifested information into regularized, transferable expressions.
 
-By generalizing concrete manifested information into regularized, transferable expressions, consciousness not only manifests but also expands: across individuals, events, time, and carriers, thereby acquiring the capacity of a “system.”
-
+Therefore, consciousness not only manifests but also expands: across individuals, events, time, and carriers, acquiring the capacity of a “system.”
 Since consciousness does not settle quota within the real world, this means:  
-
 1. Concretizing reality as information → without paying the carrier’s cost;  
 2. Abstractizing reality → without bearing settlement responsibility.
 
-In other words, the capacities of consciousness are themselves extra-systemic, and only thus can they become systemic capacities.
-Science, law, theology — these are essentially the pinnacle products of such “abstract manifestation.”
+In other words, the capacities of consciousness are themselves extra-systemic in relation to the real structure, and only thus can they become systemic capacities.
 
-Consciousness: unlimited expansion, no immediate settlement required;
-Carrier: limited, must bear all settlement costs.
+Consciousness is a structural intervener that translates reality into information while bearing no responsibility for the consequences of that information. This mode of intervention—narrating the story of information, i.e., narrative—is the sole way consciousness manifests.
 
-Consciousness is a structural intervener that translates reality into information while bearing no responsibility for the consequences of that information.
-The only mode of such intervention is narrative — that is, telling the story of information.
+Science, law, theology—these are essentially the pinnacle products of such “abstract manifestation.”  
 
