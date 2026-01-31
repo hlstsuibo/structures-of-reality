@@ -224,45 +224,42 @@ As bearers of Tianran Quanli, carriers possess the capacities of refusal, accept
 
 ---
 
-## 🌱意識（2）
+## 🌱 意識（2）
 
 現實世界以權力-信息為結構，權力必以信息表達，信息必以權力顯化，現實是具象化的；
 做為外來介入者的意識，在現實中卻是非具象化的，而無具象顯化即無存在、無意義，這是現實世界的結構事實。
 
-現實是，意識具備將具象轉化為可表達、可傳遞的信息的能力：
+現實在於，意識具備將具象轉化為可表達、可傳遞的信息的能力：
 1.將現實具象具像化顯化的能力→即把具象轉化為信息表達的能力；
 2.將現實具象抽象化顯化的能力→即把具象的具像信息歸納規律化表達的能力。
-
-因此，意識不僅能顯化，還能擴張：跨個體、跨事件、跨時間、跨載體，其具有「系統」的能力。
+因此，意識不僅能顯化，還能擴張：跨個體、跨事件、跨時間、跨載體運作，並且具備生成系統的能力。
 意識不以現實世界中的配額結算，也就意味着：
 1.將現實具象具像化 → 不需要支付載體代價；
 2.將現實具象抽象化 → 不需要承擔結算責任。
-換句話說，意識的能力本身就是現實系統結構外的能力，因此才有可能成為系統的能力。
+意識的這種不參與現實世界的配額結算而顯化抽象的能力，並不是現實世界中的能力，而是現實世界結構之外的能力，這種系統結構外的能力，才使其有可能成為生成系統本身的能力。
 
-意識是一個能將現實轉譯為信息，卻不對信息後果負責的結構性介入者，這種講信息故事即敘事介入方式，成為意識顯化的唯一方式。
+意識是一種能將現實轉譯為信息，卻不對信息後果負責的介入者，這種做事不承擔後果而必然介入的現實，唯一可行的形式是敘事、講故事。
 
 科學、法律、神學，本質上都是這種「抽象化顯化」的巔峰產物。
-
-
 
 ## 🌱 Consciousness (2)
 
 The real world is structured by Quanli-Information: Quanli must express itself through information, and information must manifest through Quanli; reality is concrete manifestation.
 As an external intervener, consciousness remains non-concrete within reality, and without concrete manifestation it has no existence and no meaning—this is a structural fact of the real world.
 
-Reality is such that consciousness possesses the capacity to transform the concrete into expressible and transmissible information:  
+Reality consists in this: consciousness possesses the capacity to transform the concrete into expressible and transmissible information:  
+1.The capacity to concretize and manifest reality as information — that is, to transform the concrete into expressible information;  
+2.The capacity to abstractize and manifest reality — that is, to generalize concrete manifested information into regularized, transferable expressions.
 
-1. The capacity to concretize and manifest reality as information — that is, to transform the concrete into expressible information;  
-2. The capacity to abstractize and manifest reality — that is, to generalize concrete manifested information into regularized, transferable expressions.
-
-Therefore, consciousness not only manifests but also expands: across individuals, events, time, and carriers, acquiring the capacity of a “system.”
+Therefore, consciousness not only manifests but also expands: operating across individuals, events, time, and carriers, and possessing the capacity to generate systems.
 Since consciousness does not settle quota within the real world, this means:  
-1. Concretizing reality as information → without paying the carrier’s cost;  
-2. Abstractizing reality → without bearing settlement responsibility.
+1.Concretizing reality as information → without paying the carrier’s cost;  
+2.Abstractizing reality → without bearing settlement responsibility.
 
-In other words, the capacities of consciousness are themselves extra-systemic in relation to the real structure, and only thus can they become systemic capacities.
+The capacity of consciousness to manifest and abstractize without participating in the quota settlement of the real world is not a capacity within the real world structure, but a capacity outside the real world structure. Only this extra-systemic capacity enables it to become the capacity that generates the system itself.
 
-Consciousness is a structural intervener that translates reality into information while bearing no responsibility for the consequences of that information. This mode of intervention—narrating the story of information, i.e., narrative—is the sole way consciousness manifests.
+Consciousness is an intervener that translates reality into information while bearing no responsibility for the consequences of that information. The only feasible form of this intervention—acting without bearing consequences—is narrative: telling stories.
 
-Science, law, theology—these are essentially the pinnacle products of such “abstract manifestation.”  
+Science, law, theology—these are essentially the pinnacle products of such “abstract manifestation.”
+
 
