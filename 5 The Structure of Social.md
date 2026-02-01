@@ -246,11 +246,11 @@ The asymmetrical structure of carrier and consciousness determines that structur
 
 ## 🌱社會結構（1）
 
-社會結構，是意識介入到現實結構中，依其自身顯化需求切割、賦義建構出來的，使載體配額在現實世界中以權力關係結算的系統。
+社會結構，是意識介入到現實結構中，依其自身顯化需求而切割、賦義建構出來的，使載體配額在現實世界中以權力關係結算的系統。
 這個系統是由意識敘事賦義了的權力關係結算系統，因此只存在於意識敘事中，這意味着：社會結構雖然依賴現實結構（天然自足運行的權力系統）存在，卻不是現實中獨立的實體。其非獨立存在的現實，使得意識不得不在其無限擴張衝動與有限配額載體之間，尋找社會結構能够自持的標準。
 
 意識敘事是意識顯化的唯一途徑，從而社會結構，本質上就是：意識敘事背景下的，在現實載體上運行的權力關係結構。而敘事賦義的語言、符號化形式，就是意識創造性發明出來的，用以切割、組織、分配、轉移、延緩載體的配額結算的跨載體、跨時空擴張的現實手段。
-也意味著，社會即是一個宏大的敘事體系：敘述權力關係的體系。
+這也意味著，社會就是一個宏大的敘事體系：敘述權力關係的體系。
 
 例如：
 法律：講述載體結算規則的執行；
@@ -264,8 +264,6 @@ The asymmetrical structure of carrier and consciousness determines that structur
 在漫長的社會結構演化過程中，意識意識到載體的不可或缺性，也會以法律、倫理、平等、福利等敘事，為載體創造「集體防火牆」，延緩或阻止載體的過度消費。可見，社會並非為載體服務，而是為了管理載體的結算節奏，使意識得以持續顯化。
 
 因為配額資源的有限性，所以社會是從掠奪、奴役的正當性敘事中開啟的，伴隨著科學技術的發展，生產效率極大提高，意識的權力也越來越大。在這種狀況下，雖然意識必須依賴載體顯化，但由於其本體並不受結算約束，就會產生肆意妄為的錯覺，並會愈發強烈，這也將會成為集權結構可能的未來。
-
----
 
 ## 🌱Social Structure (1)
 
@@ -287,3 +285,35 @@ Extreme ideologies, unlimited growth narratives, technological utopias: unrestra
 In the long evolution of social structure, consciousness comes to recognize the indispensability of carriers and creates “collective firewalls” for carriers through narratives such as law, ethics, equality, and welfare, to delay or prevent excessive consumption of carriers. It is evident that society does not serve carriers, but manages the rhythm of carrier settlement to enable consciousness's continuous manifestation.
 
 Because quota is equivalent to limited resources, society begins with narratives legitimizing plunder and enslavement. With the development of science and technology, production efficiency has been greatly improved, and the Quanli of consciousness has grown ever larger. Under these conditions, although consciousness must rely on carriers for manifestation, since its essence is unbound by settlement constraints, it generates the illusion of being able to act without restraint, and this illusion becomes increasingly intense—this will also become a possible future for centralized structures.
+
+---
+
+## 🌱社會結構（2）意識敘事背景下的權力結構
+
+現實結構下的權力結構是天然運行的權力結構，然而，社會結構卻是在意識敘事背景下的、運行在現實載體上的權力結構。這意味著：意識敘事建構出了一種全新的、僅存在於以載體為依託的故事中的權力結構。它是對天然權力的再次介入，此時的構造、破壞、選擇、分配、模擬、扭曲、寄生、延續、承認、拒絕、剝奪、擴張、服從、阻抗等一切運作，也都是意識創新出來的、僅存在於故事中的權力，構成了區別於現實結構的社會權力結構。
+從而，無一例外，人類一切文化現實——科技、經濟、政治、軍事、藝術、宗教、道德——在本體層面，都是意識敘事的權力運作形式。
+優勢/劣勢、成功/失敗、高效/低效、先進/落後、美/醜、善/惡、好/壞、公平、工具、方法、手段、意圖、理想、人工智能、文明、歧視……。
+
+神權、王權：以神權天授的宇宙／上帝／天道（現實結構）為外衣敘事，獲取支配正當、控制正當及等級正當的社會結構形式；
+人權、民權：稱「與生俱有」、「不可剝奪」，借天然權力結構敘事，以獲得最高正當性（事實上在社會中卻需要制度化、法律化保障），即表明是需要意識承認的社會結構形式；
+平等：完全是純敘事的結權關係，是人類自定義的「相同」「公平」「人人享有」，以求重新分配、重新衡量本來無可衡量的存在狀態。因平等的訴求必然會製造新的比較、新的高低、新的不平等，一旦啟動，就永遠無法逃脫等級分配的循環，而成為最強大的權力工具。
+
+技術可行性、技術中立性的正當性敘事；效率、算法、規模的正當性敘事；平等代表正義、科技代表進步，反對即反人類敘事；為了防止更壞的未來、為了你好、為了善良，現在必須控制的正當性敘事；為了國家昌盛、民族而犧牲個體的正當性敘事……敘事是社會結構中永恆的主題。
+
+結構事實是：吃喝呼吸天然擁有正當性，並不需要用法律化敘事獲取正當性，而越是需要更多正當性敘事彌補的權力結構，越會是偏離扭曲的結構，每多一次矯正都會產生更多新的偏差，需要下一次更強的矯正，循環至終。
+
+## 🌱Social Structure (2): Quanli Structure under the Background of Conscious Narrative
+
+The Quanli structure under the real structure is the naturally operating Quanli structure, whereas social structure is the Quanli structure operating on real carriers under the background of conscious narrative. This means: conscious narrative constructs an entirely new Quanli structure that exists only within stories reliant on carriers as support. It is a second intervention upon Tianran Quanli. At this point, all operations—construction, destruction, selection, allocation, simulation, distortion, parasitism, continuation, acknowledgment, refusal, deprivation, expansion, obedience, resistance—are innovations of consciousness, existing solely within the story, forming a social Quanli structure distinct from the real structure.
+
+Consequently, without exception, all human cultural realities—technology, economy, politics, military, art, religion, morality—are, at the ontological level, operational forms of Quanli constructed by consciousness.
+Advantage/disadvantage, success/failure, efficiency/inefficiency, advanced/backward, beauty/ugliness, good/evil, better/worse, fairness, tool, method, means, intention, ideal, artificial intelligence, civilization, discrimination…
+
+Divine right (Divine Quanli) and royal right (Royal Quanli): using narratives of divine mandate from the cosmos/God/Heavenly Dao (real structure) as outer garment to obtain legitimacy for domination, control, and hierarchy in social structure;
+Human rights (Human Quanli) and civil rights (Civil Quanli): claiming “innate” and “inalienable,” borrowing narratives from Tianran Quanli structure to gain supreme legitimacy (yet in society they require institutionalization and legalization for protection—“why is no law needed to guarantee eating, drinking, and breathing?”), indicating that they are social structure forms requiring conscious acknowledgment;
+Equality: entirely a pure narrative Quanli relationship, a human self-defined “sameness,” “fairness,” “everyone enjoys,” aimed at reallocating and remeasuring originally unmeasurable states of existence. Because the demand for equality inevitably generates new comparisons, new hierarchies, new inequalities, once initiated, it can never escape the cycle of hierarchical allocation, becoming the most powerful tool of narrative.
+
+Narratives of legitimacy based on technical feasibility and technical neutrality; narratives of legitimacy based on efficiency, algorithms, and scale; narratives that equality represents justice and technology represents progress, with opposition equated to anti-humanity; narratives that control is necessary now to prevent worse futures, for your own good, for kindness; narratives that sacrifice individuals for national prosperity and ethnic glory… narrative is the eternal theme in social structure.
+
+The structural fact is: eating, drinking, and breathing naturally possess legitimacy without needing legal-narrative justification, whereas the more a Quanli structure requires additional legitimacy narratives to compensate, the more deviated and distorted it becomes. Each additional correction produces more new deviations, requiring yet stronger correction next time, cycling to the end.
+
