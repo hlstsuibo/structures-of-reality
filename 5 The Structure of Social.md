@@ -295,8 +295,10 @@ Because quota is equivalent to limited resources, society begins with narratives
 優勢/劣勢、成功/失敗、高效/低效、先進/落後、美/醜、善/惡、好/壞、公平、工具、方法、手段、意圖、理想、人工智能、文明、歧視……。
 
 神權、王權：以神權天授的宇宙／上帝／天道（現實結構）為外衣敘事，獲取支配正當、控制正當及等級正當的社會結構形式；
+
 人權、民權：稱「與生俱有」、「不可剝奪」，借天然權力結構敘事，以獲得最高正當性（事實上在社會中卻需要制度化、法律化保障），即表明是需要意識承認的社會結構形式；
-平等：完全是純敘事的結權關係，是人類自定義的「相同」「公平」「人人享有」，以求重新分配、重新衡量本來無可衡量的存在狀態。因平等的訴求必然會製造新的比較、新的高低、新的不平等，一旦啟動，就永遠無法逃脫等級分配的循環，而成為最強大的權力工具。
+
+平等：完全是脫離現實純敘事的權力關係，是人類自定義的「相同」「公平」「人人享有」狀態，用以重新分配、重新衡量本來無可衡量的天然結構狀態。平等的這種完全脫離現實結構的敘事必然會製造新的比較、新的高低、新的不平等，從而，其一旦啟動，就必然陷入等級分配的循環，這也是平等成為人類社會結構中最強大也最持久的權力工具的原因。
 
 技術可行性、技術中立性的正當性敘事；效率、算法、規模的正當性敘事；平等代表正義、科技代表進步，反對即反人類敘事；為了防止更壞的未來、為了你好、為了善良，現在必須控制的正當性敘事；為了國家昌盛、民族而犧牲個體的正當性敘事……敘事是社會結構中永恆的主題。
 
@@ -306,12 +308,12 @@ Because quota is equivalent to limited resources, society begins with narratives
 
 The Quanli structure under the real structure is the naturally operating Quanli structure, whereas social structure is the Quanli structure operating on real carriers under the background of conscious narrative. This means: conscious narrative constructs an entirely new Quanli structure that exists only within stories reliant on carriers as support. It is a second intervention upon Tianran Quanli. At this point, all operations—construction, destruction, selection, allocation, simulation, distortion, parasitism, continuation, acknowledgment, refusal, deprivation, expansion, obedience, resistance—are innovations of consciousness, existing solely within the story, forming a social Quanli structure distinct from the real structure.
 
-Consequently, without exception, all human cultural realities—technology, economy, politics, military, art, religion, morality—are, at the ontological level, operational forms of Quanli constructed by consciousness.
+Consequently, without exception, all human cultural realities—technology, economy, politics, military, art, religion, morality—are, at the ontological level, operational forms of Quanli constructed through conscious narrative.
 Advantage/disadvantage, success/failure, efficiency/inefficiency, advanced/backward, beauty/ugliness, good/evil, better/worse, fairness, tool, method, means, intention, ideal, artificial intelligence, civilization, discrimination…
 
-Divine right (Divine Quanli) and royal right (Royal Quanli): using narratives of divine mandate from the cosmos/God/Heavenly Dao (real structure) as outer garment to obtain legitimacy for domination, control, and hierarchy in social structure;
-Human rights (Human Quanli) and civil rights (Civil Quanli): claiming “innate” and “inalienable,” borrowing narratives from Tianran Quanli structure to gain supreme legitimacy (yet in society they require institutionalization and legalization for protection—“why is no law needed to guarantee eating, drinking, and breathing?”), indicating that they are social structure forms requiring conscious acknowledgment;
-Equality: entirely a pure narrative Quanli relationship, a human self-defined “sameness,” “fairness,” “everyone enjoys,” aimed at reallocating and remeasuring originally unmeasurable states of existence. Because the demand for equality inevitably generates new comparisons, new hierarchies, new inequalities, once initiated, it can never escape the cycle of hierarchical allocation, becoming the most powerful tool of narrative.
+Divine right (Divine Quanli) and royal right (royal Quanli): using narratives of divine mandate from the cosmos/God/Heavenly Dao (real structure) as outer garment to obtain legitimacy for domination, control, and hierarchy in social structure;
+Human rights (Human Quanli) and civil rights (civil Quanli): claiming “innate” and “inalienable,” borrowing narratives from Tianran Quanli structure to gain supreme legitimacy (yet in society they require institutionalization and legalization for protection), indicating that they are social structure forms requiring conscious acknowledgment;
+Equality: entirely a pure narrative Quanli relationship detached from reality, a human self-defined state of “sameness,” “fairness,” and “everyone enjoys,” aimed at reallocating and remeasuring originally unmeasurable natural structural states. The narrative of equality, being completely detached from the real structure, inevitably generates new comparisons, new hierarchies, and new inequalities; once initiated, it inevitably falls into the cycle of hierarchical allocation—this is also why equality becomes the most powerful and enduring Quanli tool in social structure.
 
 Narratives of legitimacy based on technical feasibility and technical neutrality; narratives of legitimacy based on efficiency, algorithms, and scale; narratives that equality represents justice and technology represents progress, with opposition equated to anti-humanity; narratives that control is necessary now to prevent worse futures, for your own good, for kindness; narratives that sacrifice individuals for national prosperity and ethnic glory… narrative is the eternal theme in social structure.
 
