@@ -246,6 +246,8 @@ The asymmetrical structure of carrier and consciousness determines that structur
 
 ## 🌱社會結構（1）
 
+意識作為外來介入者，無法直接操縱肌肉纖維，它必須透過「賦義」來佔領載體的注意力與神經遞質。
+
 社會結構，是意識介入到現實結構中，依其自身顯化需求而切割、賦義建構出來的，使載體配額在現實世界中以權力關係結算的系統。
 這個系統是由意識敘事賦義了的權力關係結算系統，因此只存在於意識敘事中，這意味着：社會結構雖然依賴現實結構（天然自足運行的權力系統）存在，卻不是現實中獨立的實體。其非獨立存在的現實，使得意識不得不在其無限擴張衝動與有限配額載體之間，尋找社會結構能够自持的標準。
 
@@ -266,6 +268,8 @@ The asymmetrical structure of carrier and consciousness determines that structur
 因為配額資源的有限性，所以社會是從掠奪、奴役的正當性敘事中開啟的，伴隨著科學技術的發展，生產效率極大提高，意識的權力也越來越大。在這種狀況下，雖然意識必須依賴載體顯化，但由於其本體並不受結算約束，就會產生肆意妄為的錯覺，並會愈發強烈，這也將會成為集權結構可能的未來。
 
 ## 🌱Social Structure (1)
+
+Consciousness, as an external intervener, cannot directly manipulate muscle fibers; it must occupy the carrier's attention and neurotransmitters through “meaning assignment.”
 
 Social structure is the system constructed by consciousness through intervention in the real structure, in accordance with its own manifestation demands: cutting and meaning assignment to enable carrier quota settlement in the real world in the form of Quanli relationships.
 This system is a Quanli relationship settlement system endowed with meaning by conscious narrative, and thus it exists only within conscious narrative. This means: although social structure depends on the real structure (the self-sustaining operation of Tianran Quanli systems) for existence, it is not an independent entity in reality. Its non-independent existence in reality forces consciousness, in its unlimited expansion drive, to seek a self-sustenance standard for social structure between the unlimited impulse and the limited quota of carriers.
