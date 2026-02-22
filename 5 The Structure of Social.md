@@ -382,47 +382,38 @@ Their stories gave you promises, making you expect; my story gives no promises�
 
 ## 🌱附：權力與能力
 
-擁有權力，你就能重塑規則、重新定義什麼叫「可能」，你也就能創造、購買、整合出各種能力；
-擁有權力，自然界的物理定律、生物演化、資源流動、甚至機率本身，都可以被重新導向、加速、壓制或放大；
-而沒有權力支撐的能力，如同刀劍被鎖在鞘裡，又像水被裝在無底的桶中——再強也使不上、留不住。
-曾經的統治與奴役者，從來都是能拿到那把能讓能力流通的「權柄」的人，而不是只有能力強大的人。
-AGI、核彈不只是在博弈「誰比較有能力」，更是在「搶奪能讓他國為自己彎腰的那把權柄」：比擁有核爆炸能力更加可怕的是誰正握著引爆的開關(權柄)。
+權力是與生俱來的結構、法則。它具有正當性與強制性。除非毀滅，否則它不可被壓制、阻止，不可被放大、推動，亦不可被剝奪。它無需證明自身，因為它即是現實本身。
 
-當今權力的概念，早已不再只是統治他人，不只局限於人類社會，更是擴展到整個自然世界，統治「可能性」本身。
-「誰先搶到能讓自然界為自己彎腰的那把權柄」，誰就能把自然界原本幾百萬年、幾十億年才會發生的變化，壓縮到幾年、幾十年內強制發生。
-為了搶這把權柄，人類正在不停創造出遠遠超過自身理解與控制極限的能力：核能、基因編輯、人工智慧、氣候工程、意識上傳，能力的天花板一次又一次被撞開。
-為了搶這把權柄，人類正在用能力當燃料，燒出一條通往更大權力的賽道，在這條賽道上，誰先停下來，誰就可能被後面的人用失控的能力碾過去，於是沒有人敢停，也沒有人准備好「停車」的能力，更沒有人有權力使這一切停下來。
+權力的存在性意味著：凡「存在」皆具有權力。因此，無論該權力是否發生顯化，「存在」本身即已成立。這確立了意識的虛構可以成立，從而社會世界得以誕生。「存在」的權力發生或不發生，是一個不確定事件，在這一事件中，權力發生的可實現性程度，即為能力。能力本體仍是權力。
+例如，「蘋果樹生長」這一事件中，蘋果樹無論處於何時何地，只要其結構未毀滅，即具有「生長的可能」，這「生長的可能」本身是不可剝奪的天然權力；而「蘋果樹實際生長的可能性大小」「能否生長」則屬於能力範疇，其能力可被阻止或加速。
 
-這不僅需要擁有控制的能力，更要擁有掌握住這些能力的權力。在所有人都在瘋狂搶奪更大控制權的競賽裡，誰還有餘裕、誰還有動機、誰還有權力真的去控制它們？
+能力不必然具有正當性與強制性。它可被壓制、阻止，可被放大、推動，亦可被剝奪，且有時需要證明自身。例如，捂住口鼻即可剝奪生命體呼吸的能力，但除非其死亡，你不能說「它沒有呼吸的權力」。
 
-能力提高效率的技術加速來得太快了，人類還遠遠沒有准備好獲取控制能力的權力：人類在物理世界創造了「神的能力」，但在敘事世界（社會結構）中仍只有「人的權力」；意識已經開啟了上帝級別的顯化效果，但載體依然只能行使生物級別的法則約束。
+在物理世界中，權力結構清晰明確：存在即權力，權力發生的可能性（能力）可由科學敘事精確確定。
+在社會世界中，權力是由法律、身份、文化共識場約定的結構、法則。它以正當性敘事確立，具有先驗性與強制性。除非毀滅，否則不可被壓制、阻止，不可被放大、推動，亦不可被剝奪。社會權力具備不可動搖的神聖性（如早期神權社會中神的意志），它不需要證明自身，因為它即是社會結構本身。由於社會權力本體是複雜混亂的主觀虛構，其發生的可能性也因此會變得複雜而混亂。
 
-說明：權力是本質屬性，是本身具有的結構、法則，是天然的正當性，權力關係是現實世界的本原結構，權力不可被剝奪，除非毀滅；
-而能力不是本體屬性，是可以獲得也可以被剝奪的屬性，是敘事賦義後的顯化效果，最重要的是需要正當性敘事的支持。
-因意識具有創造出系統的能力，即創造新權力的能力，從而會產生能力與權力被誤認的錯覺。
+除了物理世界中「存在即權力」之外，社會世界中的法律權力、被定義的人權、禮儀、社會關係結構等，皆依賴意識共識場存在，是虛構的產物。虽然，依這些權力而獲得的能力，會受這些權力的壓制或放大，甚至剝奪，但是能力的發生常常更直接、真實、更顯著，人們因此常重視能力而忽視權力。然而，權力能重塑規則、重新定義「可能」，能創造、購買、整合各種能力。歷史上，統治者與奴役者從來不是僅憑能力強大的人，而是掌握著那把能讓能力流通的「權柄」之人。AGI、核彈的博弈，也並非僅在博弈「誰更有能力」，而更專注於「誰握有能讓他國為自己彎腰的那把權柄」，擁有核爆炸能力固然可怕，但真正決定性的是誰正握著引爆的開關（權力的手柄）。
 
-## 🌱Appendix: Quanli and Capability
+當今，由於意識具備創造社會系統的能力，由於科學敘事與技術加速的現實，某些意識已產生一種無視現實的傲慢，都要先搶奪那把能讓自然界為自己彎腰的權柄。為此，它們正不停創造出遠遠超出自身理解與控制極限的能力：核能、基因編輯、人工智慧、氣候工程、意識上傳。在這一過程中，已無人敢停也無人願停，更無人擁有足夠的權力使這一切停下。
 
-Having Quanli, you can reshape rules and redefine what is “possible”; you can then create, purchase, and integrate various capabilities.
-Having Quanli, the physical laws of nature, biological evolution, resource flows, and even probability itself can be redirected, accelerated, suppressed, or amplified.
-Capability without Quanli support is like a sword locked in its sheath, or water poured into a bottomless bucket—no matter how strong, it cannot be wielded or retained.
-The rulers and enslavers of the past were never those with the greatest capabilities, but those who held the “authority handle” that allowed capabilities to circulate.
-AGI and nuclear bombs are not merely competing over “who has more capability,” but over “seizing the authority handle that forces other nations to bow.” What is more terrifying than possessing nuclear explosive capability is who holds the detonation switch (the authority handle).
+人類在物理世界中創造了「神的能力」，但在社會世界中仍然僅擁有「人的權力」，載體依然只能在生物級別的法則約束下結算，這是人類社會的結構性矛盾，是當前人類最應關注的處境。
 
-Today’s concept of Quanli has long ceased to be merely ruling over others or limited to human society; it has expanded to the entire natural world—ruling “possibility” itself.
-Whoever first seizes the “authority handle that makes nature bow” can compress changes that originally took nature millions or billions of years into forced occurrences within years or decades.
-To seize this authority handle, humanity keeps creating capabilities far beyond its own understanding and control limits: nuclear energy, gene editing, artificial intelligence, climate engineering, consciousness uploading—the ceiling of capability is shattered again and again.
-To seize this authority handle, humanity uses capability as fuel to burn a racetrack toward greater Quanli. On this racetrack, whoever stops first may be crushed by the uncontrolled capability of those behind. Thus, no one dares to stop, no one is prepared with the capability to “brake,” and no one has the Quanli to make it all stop.
+## 🌱Appendix: Quanli and Capability.
 
-This requires not only possessing the capability for control, but also possessing the Quanli to master those capabilities. In a race where everyone is madly seizing greater control, who still has the margin, the motivation, or the Quanli to truly control them?
+Quanli is an innate structure and law. It possesses legitimacy and compulsoriness. Unless destroyed, it cannot be suppressed, prevented, amplified, promoted, or deprived. It needs no proof of itself, because it is reality itself.
 
-The technological acceleration of efficiency through capability has arrived too fast, and humanity is far from prepared—acquiring the Quanli to control capabilities: humanity has created “god-like capabilities” in the physical world, yet in the narrative world (social structure) still possesses only “human-level Quanli”; consciousness has already activated god-level manifestation effects, but carriers remain bound by biological-level laws.
+The existence of Quanli means: whatever “exists” possesses Quanli. Therefore, regardless of whether that Quanli manifests, “existence” itself is already established. This establishes that consciousness's fabrication can be valid, thereby giving birth to the social world. Whether the Quanli of “existence” occurs or not is an uncertain event; within this event, the degree of realizability of Quanli's occurrence is capability. The ontology of capability remains Quanli.
+For example, in the event of “an apple tree growing,” as long as its structure is not destroyed, the apple tree possesses “the possibility of growth” at any time and place — this “possibility of growth” itself is non-deprivable Tianran Quanli; while “the degree of actual possibility of the apple tree growing” or “whether it can grow” falls into the category of capability, which can be prevented or accelerated.
 
-Explanation
-Quanli is an essential attribute: it is the inherent structure and law, the natural legitimacy. Quanli relationships are the primordial structure of the real world. Quanli cannot be deprived except through destruction.
-Capability, however, is not an inherent attribute: it is something that can be acquired or deprived, an effect of manifestation after narrative meaning assignment, and most importantly, it requires support from legitimacy narratives.
-Because consciousness possesses the capacity to create systems—that is, the capacity to create new Quanli—it inevitably produces the illusion that capability is mistaken for Quanli.
+Capability does not necessarily possess legitimacy or compulsoriness. It can be suppressed, prevented, amplified, promoted, or deprived, and sometimes requires proof of itself. For example, covering the mouth and nose can deprive a living body of the capability to breathe, but unless it dies, you cannot say “it has no Quanli to breathe.”
 
+In the physical world, the Quanli structure is clear and explicit: existence is Quanli; the possibility of Quanli occurring (capability) can be precisely determined by scientific narrative.
+In the social world, Quanli is the structure and law agreed upon by law, identity, and cultural consensus fields. It is established through legitimacy narrative, possessing apriority and compulsoriness. Unless destroyed, it cannot be suppressed, prevented, amplified, promoted, or deprived. Social Quanli possesses unshakable sacredness (such as the will of gods in early divine-right societies); it needs no proof of itself because it is social structure itself. Since the ontology of social Quanli is complex and chaotic subjective fabrication, the possibility of its occurrence therefore becomes complex and chaotic.
 
+In the social world, beyond “existence is Quanli” in the physical world, legal Quanli, defined human rights, etiquette, social relational structures, etc., all depend on the existence of conscious consensus fields; they are fabricated products. Although capabilities obtained through these Quanli can be suppressed, amplified, or deprived by them, the occurrence of capability is often more direct, real, and prominent, so people often value capability while overlooking Quanli. However, Quanli can reshape rules, redefine “possibility,” and create, purchase, and integrate various capabilities. Throughout history, rulers and enslavers were never those with mere superior capability, but those who held the “Quanli handle” that allows capability to circulate. The contest between AGI and nuclear bombs is not merely about “who has more capability,” but more focused on “who holds the Quanli handle that forces other nations to bow.” Possessing nuclear explosive capability is terrifying, but the truly decisive factor is who holds the detonation switch (the handle of Quanli).
+
+Today, because consciousness possesses the capacity to create social systems, and because of the reality of scientific narrative and technological acceleration, certain consciousnesses have developed an arrogance that disregards reality: they all rush to seize first the Quanli handle that makes nature bow. For this purpose, they continue to create capabilities far beyond their own understanding and control limits: nuclear energy, gene editing, artificial intelligence, climate engineering, consciousness uploading. In this process, no one dares to stop, no one is willing to stop, and no one possesses sufficient Quanli to make it all stop.
+
+Humanity has created “god-like capabilities” in the physical world, but in the social world still possesses only “human-level Quanli.” Carriers can only settle under biological-level laws. This is the structural contradiction of human society and the situation humanity should pay most attention to at present.
 
 
