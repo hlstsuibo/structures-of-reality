@@ -1,7 +1,5 @@
 # 人類社會敘事史(2)一一神權開啟的文明
 
-第一部分
-
 神，無論曾經是否存在，其都以絕對的、超現實的能力，在人類世界中獲取了無可爭議的特權地位，成為了初代特權階級，這是無可爭議的事實。
 
 人類，以神的特權為起點，宣稱了人類及萬物皆是神的僕人、財物，並由此開創出「從屬權力」關係系統，在此從屬關係系統中，以身份權力實現了人盡其職、物盡其用的角色扮演，從而構架起社會結構框架。這意味著，人類社會是從「從屬關係」中開啟的，以從屬權力為初始根基，以從屬關係建構為初創條件，進而實踐、設計出來的權力關係系統。也就是說，人類社會是在確刻了「主從座標系」之後才得以成形的：在確定「誰是主人誰是僕人，誰歸誰所擁有，什麼東西什麼時候從屬於什麼人或事物」之先，就已經確定了社會中要先有主人與僕人，要先有階層與地位，這使得社會生存與主從奴役在歷史初期就綑綁在一起。因為從屬權力這一「初始坐標系」是先驗的、底層的邏輯起點，從而它也成為人類社會世代遺傳的文化基因。
@@ -14,7 +12,6 @@
 
 # Human Social Narrative History (2): Civilization Opened by Divine Quanli
 
-第一部分
 God, regardless of whether it ever existed, acquired an indisputable privileged position in the human world through absolute, supra-real power, becoming the first privileged class — this is an indisputable fact.
 
 Humanity, taking divine privilege as the starting point, proclaimed that humans and all things are servants and property of God, thereby creating the “subordinate Quanli” relational system. Within this subordinate relational system, identity Quanli realized role-playing in which everyone fulfills their duty and everything is used to its utmost, thus framing the social structure. This means human society was opened from “subordinate relationships,” with subordinate Quanli as the initial foundation and subordinate relational construction as the founding condition, subsequently practiced and designed as a Quanli relational system. In other words, human society only took shape after engraving the “master-servant coordinate system”: before determining “who is master and who is servant, who belongs to whom, what belongs to whom at what time,” society had already predetermined that there must first be masters and servants, first hierarchies and statuses. This bound social survival and master-servant enslavement together from the earliest historical stages. Because this “initial coordinate system” of subordinate Quanli is a priori and foundational logical starting point, it also became the cultural gene inherited across generations in human society.
