@@ -22,7 +22,7 @@ Although all things are equal in rights, and although human life ontology pursue
 
 This “ownership Quanli” is purely a collective conscious illusion based on the “initial coordinate system.” This illusion makes humanity naturally believe that a piece of land, a cow, or even another person's future can “belong” to a certain consciousness. This enslavement relationship confines human civilization to writing and unfolding its chapters only within the “stacking and interweaving of enslavement and fairness.” This interwoven evolution is essentially an eternal repulsion between “physical reality” and “fabricated ownership.”
 
-# 神權之公平世界：從屬秩序
+## 神權之公平世界：從屬秩序
 ​神作為萬物的創造者，因其絕對的「擁有權」，獲得了對所有財物（人類與資源）的絕對處置權。在此框架下，公平並非個體間的對等，而是「在神之下」的絕對趨同：即每個人都是神的僕人，便是平等；每個人都必須遵循神的從屬秩序，便是公平。在此邏輯中，每一種存在都僅在神所安排的階層座標上運行，各守其位、各盡其職，無差別地履行對神的義務；資產（人）的損耗只是系統運作的正當成本：所謂苦難，是神對「資產」的不同擺放方式；世俗間的貧富與哀樂，在神的眼中皆為虛妄。
 
 ​因此，在神權社會中：
@@ -38,7 +38,7 @@ This “ownership Quanli” is purely a collective conscious illusion based on t
 ​在物理世界中，原子與能量不從屬於任何意志，它們僅依循自然法則運動。然而，神權敘事開啟了將「物理存在」轉化為「法律財產」的先例，以一種超現實的宣稱，完成了將「天然平權」篡位為「建構特權」的關鍵一躍。這一躍，物理存在便不再獨立，便被意識擁有而肆意處置。這一步從神對萬物的「絕對擁有權」開始，確立了「因擁有而產生的絕對處置權」。這在物理事實上，就是對物理本體自發性的暴力剝奪與強制奴役。
 這種強行定義的「我擁有你，故你從屬於我」的權力邏輯，為人類文明植入了奴役正當化的初始代碼。
 
-# The Fair World of Divine Quanli: Subordinate Order
+## The Fair World of Divine Quanli: Subordinate Order
 
 God, as the creator of all things, obtained absolute disposal Quanli over all property (humans and resources) due to its absolute “ownership Quanli.” Under this framework, fairness is not equivalence between individuals, but absolute convergence “under God”: that is, everyone being God's servant is equality; everyone must follow God's subordinate order is fairness. In this logic, every existence operates only on the hierarchical coordinates arranged by God, each keeping its position, fulfilling its duty, indifferently performing obligations to God; the depletion of assets (humans) is merely legitimate cost of system operation: so-called suffering is merely God's different placement of “assets”; worldly wealth and poverty, joy and sorrow, are all vanity in God's eyes.
 
