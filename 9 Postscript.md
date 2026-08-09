@@ -24,3 +24,5 @@ Due to limitations of cultural-linguistic environment, combined with hasty writi
 Yet this cannot obscure the power of this system, nor does it hinder professionals from using it for professional purposes.
 It encompasses everything and is capable of everything; all is factual description, piercing illusions.
 The system seeks no consensus; those who chance upon it are fortunate. Those who miss it — that is the fate of humanity; humanity's arrogance and prejudice have nothing to do with me.
+
+
